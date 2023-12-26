@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspireAppPoc.AppHost", "AspireAppPoc\AspireAppPoc.AppHost\AspireAppPoc.AppHost.csproj", "{0AF3694C-4DD9-49CF-84A5-D3E7A3E17504}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspireAppPoc.ServiceDefaults", "AspireAppPoc\AspireAppPoc.ServiceDefaults\AspireAppPoc.ServiceDefaults.csproj", "{76AD7802-8D02-46BE-B041-853D6659AD7F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspireAppPoc.ApiService", "AspireAppPoc\AspireAppPoc.ApiService\AspireAppPoc.ApiService.csproj", "{D844F83C-69D8-4690-87F8-1BC2D6BCA64A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspireAppPoc.Web", "AspireAppPoc\AspireAppPoc.Web\AspireAppPoc.Web.csproj", "{ECD64DDE-C141-4AD8-B166-399F5160E1AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0AF3694C-4DD9-49CF-84A5-D3E7A3E17504}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0AF3694C-4DD9-49CF-84A5-D3E7A3E17504}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0AF3694C-4DD9-49CF-84A5-D3E7A3E17504}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0AF3694C-4DD9-49CF-84A5-D3E7A3E17504}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76AD7802-8D02-46BE-B041-853D6659AD7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76AD7802-8D02-46BE-B041-853D6659AD7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76AD7802-8D02-46BE-B041-853D6659AD7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76AD7802-8D02-46BE-B041-853D6659AD7F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D844F83C-69D8-4690-87F8-1BC2D6BCA64A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D844F83C-69D8-4690-87F8-1BC2D6BCA64A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D844F83C-69D8-4690-87F8-1BC2D6BCA64A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D844F83C-69D8-4690-87F8-1BC2D6BCA64A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ECD64DDE-C141-4AD8-B166-399F5160E1AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECD64DDE-C141-4AD8-B166-399F5160E1AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECD64DDE-C141-4AD8-B166-399F5160E1AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECD64DDE-C141-4AD8-B166-399F5160E1AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
