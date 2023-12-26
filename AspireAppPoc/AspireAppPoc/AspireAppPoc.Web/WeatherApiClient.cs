@@ -4,7 +4,7 @@ public class WeatherApiClient(HttpClient httpClient)
 {
     public async Task<WeatherForecast[]> GetWeatherAsync()
     {
-        return await httpClient.GetFromJsonAsync<WeatherForecast[]>("http://localhost:5543/weatherforecast") ?? [];
+        return await httpClient.GetFromJsonAsync<WeatherForecast[]>("weatherforecast") ?? [];
     }
 }
 
